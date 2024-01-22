@@ -2,6 +2,7 @@
 
 Este es un modelo de Machine Learning , que mediante el ingreso de ciertas variables climatologicas como:
 
+
 -Nitrogeno
 -Potasio
 -Fósforo
