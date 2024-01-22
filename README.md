@@ -28,3 +28,5 @@ El modelo de machine learning utilizado es LogisticRegression en scikit-learn, q
 ![Modelo de regresión](https://github.com/saulobw/Optimizador_Cultivos/blob/main/Captura%20de%20pantalla%20(36).png?raw=true)
 
 El modelo tiene una del 97% y consta de 2200 datos y 8 columnas entre las cuales tambien se encuentra el etiquetado.
+
+![Modelo](https://github.com/saulobw/Optimizador_Cultivos/blob/main/Captura%20de%20pantalla%20(36).png?raw=true)
