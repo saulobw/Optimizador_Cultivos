@@ -20,5 +20,5 @@ Este es un modelo de Machine Learning , que mediante el ingreso de ciertas varia
 - INTERACT
 - SCIKIT-LEARN
 
-##Modelo utilizado: El modelo de machine learning utilizado es LogisticRegression en scikit-learn, que se utiliza para problemas de clasificacion binaria y multiclase.
+##MODELO UTILIZADO: El modelo de machine learning utilizado es LogisticRegression en scikit-learn, que se utiliza para problemas de clasificacion binaria y multiclase.
 
