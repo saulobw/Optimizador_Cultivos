@@ -9,4 +9,5 @@ Este es un modelo de Machine Learning , que mediante el ingreso de ciertas varia
 - PH
 - Humedad
 - Precipitacion
+
 permite la prediccion del cultivo que más cercano esté a esas caracteristicas.
