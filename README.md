@@ -31,4 +31,4 @@ El modelo tiene una del 97% y consta de 2200 datos y 8 columnas entre las cuales
 
 ![Modelo](https://github.com/saulobw/Optimizador_Cultivos/blob/main/Captura%20de%20pantalla%20(35).png?raw=true)
 
-![Modelo]()
+![Modelo](https://github.com/saulobw/Optimizador_Cultivos/blob/main/Captura%20de%20pantalla%20(37).png?raw=true)
